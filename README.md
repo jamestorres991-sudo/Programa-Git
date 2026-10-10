@@ -6,4 +6,4 @@ Autor: James Alberto Torres Pelaez.
 
 Contexto del proyecto académico: sistema de información para la Clínica Veterinaria La Casona.
 
-Este repositorio permite practicar la conexión entre Git local y GitHub, el registro de versiones y la publicación de cambios. No contiene una aplicación clínica implementada.
+Este repositorio permite practicar la conexión entre Git local y GitHub, el registro de versiones y la publicación de cambios.
